@@ -1,0 +1,21 @@
+       3 Most Popular Articles Of All Time Are:
+
+
+Candidate Is Jerk, Alleges Rival - 338647 views
+Bears Love Berries, Alleges Bear - 253801 views
+Bad Things Gone, Say Good People - 170098 views
+
+
+        Most Popular Authors Of All Time Are:
+
+
+Ursula La Multa - 507594 views
+Rudolf Von Treppenwitz - 423457 views
+Anonymous Contributor - 170098 views
+Markoff Chaney - 84557 views
+
+
+        Days in which error is more than 1%:
+
+
+2016-07-17: 2.0% rate of failure
